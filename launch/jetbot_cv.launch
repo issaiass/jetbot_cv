@@ -1,0 +1,5 @@
+<launch>
+
+  <node pkg="jetbot_cv" type="jetbot_cv" name="jetbot_cv"> </node>
+
+</launch>
